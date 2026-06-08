@@ -1,4 +1,4 @@
-
+//StudentGradeSystem is a Java program that allows users to add, view, search student records, and calculate average marks using an ArrayList
 
 public class Student {
 
